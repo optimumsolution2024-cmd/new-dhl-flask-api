@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: dhl-flask-api
+    name: new-dhl-flask-api
     env: python
     plan: free
     buildCommand: pip install -r requirements.txt
